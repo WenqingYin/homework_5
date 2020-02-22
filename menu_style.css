@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+	font-family: futura;
+	color: black;
+	font-weight: 50;
+	font-size: 20px;
+}
+
+header nav h2{
+	display: inline-block;
+	position: relative;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: auto;
+}
