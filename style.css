@@ -32,17 +32,18 @@ header nav h2{
 
 #about {
 	position: relative;
-	left: 35%;
+	left: 30%;
 }
 
 #sign {
 	position: relative;
-	left: 25%;
+	left: 20%;
 }
 
+/* quick pick-up and order button*/
 #pickup, #order {
 	position: relative;
-	top: 550px;
+	top: 500px;
 	right: 50px;
 	color: gray;
 	font-family:futura;
@@ -56,6 +57,7 @@ header nav h2{
 	display: inline-block;
 	border: 20px solid white;
 	border-radius: 5px;
+	/*https://www.w3schools.com/cssref/css3_pr_box-shadow.asp*/
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -92,7 +94,7 @@ header img {
 	display:inline-block;
 	position: relative;
 	top: 30px;
-	left: 40%;
+	left: 37%;
 	width: 260px;
-	height: 40px;
+	height: 35px;
 }
